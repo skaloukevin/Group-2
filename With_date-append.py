@@ -271,6 +271,7 @@ while new_day == "y":
         d11.append(word_of_mouth_purchase_amt)
         d11.append(google_purchase_amt)
     elif dateday == 12:
+        d12.append(listof_phonenumbers)
         d12.append(cust_count_day)
         d12.append(tot_purchase_amount_day)
         d12.append(facebook_purchase_amt)
@@ -278,6 +279,7 @@ while new_day == "y":
         d12.append(word_of_mouth_purchase_amt)
         d12.append(google_purchase_amt)
     elif dateday == 13:
+        d13.append(listof_phonenumbers)
         d13.append(cust_count_day)
         d13.append(tot_purchase_amount_day)
         d13.append(facebook_purchase_amt)
@@ -285,6 +287,7 @@ while new_day == "y":
         d13.append(word_of_mouth_purchase_amt)
         d13.append(google_purchase_amt)
     elif dateday == 14:
+        d14.append(listof_phonenumbers)
         d14.append(cust_count_day)
         d14.append(tot_purchase_amount_day)
         d14.append(facebook_purchase_amt)
@@ -292,6 +295,7 @@ while new_day == "y":
         d14.append(word_of_mouth_purchase_amt)
         d14.append(google_purchase_amt)
     elif dateday == 15:
+        d15.append(listof_phonenumbers)
         d15.append(cust_count_day)
         d15.append(tot_purchase_amount_day)
         d15.append(facebook_purchase_amt)
@@ -299,6 +303,7 @@ while new_day == "y":
         d15.append(word_of_mouth_purchase_amt)
         d15.append(google_purchase_amt)
     elif dateday == 16:
+        d16.append(listof_phonenumbers)
         d16.append(cust_count_day)
         d16.append(tot_purchase_amount_day)
         d16.append(facebook_purchase_amt)
@@ -306,6 +311,7 @@ while new_day == "y":
         d16.append(word_of_mouth_purchase_amt)
         d16.append(google_purchase_amt)
     elif dateday == 17:
+        d17.append(listof_phonenumbers)
         d17.append(cust_count_day)
         d17.append(tot_purchase_amount_day)
         d17.append(facebook_purchase_amt)
@@ -313,6 +319,7 @@ while new_day == "y":
         d17.append(word_of_mouth_purchase_amt)
         d17.append(google_purchase_amt)
     elif dateday == 18:
+        d18.append(listof_phonenumbers)
         d18.append(cust_count_day)
         d18.append(tot_purchase_amount_day)
         d18.append(facebook_purchase_amt)
@@ -320,6 +327,7 @@ while new_day == "y":
         d18.append(word_of_mouth_purchase_amt)
         d18.append(google_purchase_amt)
     elif dateday == 19:
+        d19.append(listof_phonenumbers)
         d19.append(cust_count_day)
         d19.append(tot_purchase_amount_day)
         d19.append(facebook_purchase_amt)
@@ -327,6 +335,7 @@ while new_day == "y":
         d19.append(word_of_mouth_purchase_amt)
         d19.append(google_purchase_amt)
     elif dateday == 20:
+        d20.append(listof_phonenumbers)
         d20.append(cust_count_day)
         d20.append(tot_purchase_amount_day)
         d20.append(facebook_purchase_amt)
@@ -334,6 +343,7 @@ while new_day == "y":
         d20.append(word_of_mouth_purchase_amt)
         d20.append(google_purchase_amt)
     elif dateday == 21:
+        d21.append(listof_phonenumbers)
         d21.append(cust_count_day)
         d21.append(tot_purchase_amount_day)
         d21.append(facebook_purchase_amt)
@@ -341,6 +351,7 @@ while new_day == "y":
         d21.append(word_of_mouth_purchase_amt)
         d21.append(google_purchase_amt)
     elif dateday == 22:
+        d22.append(listof_phonenumbers)
         d22.append(cust_count_day)
         d22.append(tot_purchase_amount_day)
         d22.append(facebook_purchase_amt)
@@ -348,6 +359,7 @@ while new_day == "y":
         d22.append(word_of_mouth_purchase_amt)
         d22.append(google_purchase_amt)
     elif dateday == 23:
+        d23.append(listof_phonenumbers)
         d23.append(cust_count_day)
         d23.append(tot_purchase_amount_day)
         d23.append(facebook_purchase_amt)
@@ -355,6 +367,7 @@ while new_day == "y":
         d23.append(word_of_mouth_purchase_amt)
         d23.append(google_purchase_amt)
     elif dateday == 24:
+        d24.append(listof_phonenumbers)
         d24.append(cust_count_day)
         d24.append(tot_purchase_amount_day)
         d24.append(facebook_purchase_amt)
@@ -362,6 +375,7 @@ while new_day == "y":
         d24.append(word_of_mouth_purchase_amt)
         d24.append(google_purchase_amt)
     elif dateday == 25:
+        d25.append(listof_phonenumbers)
         d25.append(cust_count_day)
         d25.append(tot_purchase_amount_day)
         d25.append(facebook_purchase_amt)
@@ -369,6 +383,7 @@ while new_day == "y":
         d25.append(word_of_mouth_purchase_amt)
         d25.append(google_purchase_amt)
     elif dateday == 26:
+        d26.append(listof_phonenumbers)
         d26.append(cust_count_day)
         d26.append(tot_purchase_amount_day)
         d26.append(facebook_purchase_amt)
@@ -376,6 +391,7 @@ while new_day == "y":
         d26.append(word_of_mouth_purchase_amt)
         d26.append(google_purchase_amt)
     elif dateday == 27:
+        d27.append(listof_phonenumbers)
         d27.append(cust_count_day)
         d27.append(tot_purchase_amount_day)
         d27.append(facebook_purchase_amt)
@@ -383,6 +399,7 @@ while new_day == "y":
         d27.append(word_of_mouth_purchase_amt)
         d27.append(google_purchase_amt)
     elif dateday == 28:
+        d28.append(listof_phonenumbers)
         d28.append(cust_count_day)
         d28.append(tot_purchase_amount_day)
         d28.append(facebook_purchase_amt)
@@ -390,6 +407,7 @@ while new_day == "y":
         d28.append(word_of_mouth_purchase_amt)
         d28.append(google_purchase_amt)
     elif dateday == 29:
+        d29.append(listof_phonenumbers)
         d29.append(cust_count_day)
         d29.append(tot_purchase_amount_day)
         d29.append(facebook_purchase_amt)
@@ -397,6 +415,7 @@ while new_day == "y":
         d29.append(word_of_mouth_purchase_amt)
         d29.append(google_purchase_amt)
     elif dateday == 30:
+        d30.append(listof_phonenumbers)
         d30.append(cust_count_day)
         d30.append(tot_purchase_amount_day)
         d30.append(facebook_purchase_amt)
@@ -404,6 +423,7 @@ while new_day == "y":
         d30.append(word_of_mouth_purchase_amt)
         d30.append(google_purchase_amt)
     else:
+        d31.append(listof_phonenumbers)
         d31.append(cust_count_day)
         d31.append(tot_purchase_amount_day)
         d31.append(facebook_purchase_amt)
